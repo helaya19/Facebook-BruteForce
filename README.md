@@ -30,8 +30,6 @@ https://youtu.be/qIfGxDmRQIU
 * Make location based login(+browser based).
 
 ## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
-
 ~~~
 Happy Hacking Day !
 ~~~
